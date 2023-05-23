@@ -1,7 +1,8 @@
 # React-3D-Animation-Website
-React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP - https://apple-3d-website.netlify.app/
+React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP ( A JavaScript toolset).   
+Browse my website on - https://apple-3d-website.netlify.app/
 
-- Built this 3D animation website in React, using technologies such as WebGi (powered by Three.js) and GSAP. Credit to [Sloba](https://github.com/bobangajicsm) and [FreeCodeCamp](https://youtube.com/freecodecamp).
+- Built this 3D animation website in React, using WebGi (powered by Three.js) and GSAP. Credit to [Sloba](https://github.com/bobangajicsm) and [FreeCodeCamp](https://youtube.com/freecodecamp).
 - The iPhone 3D models were found on Sketchfab and was displayed on the website using WebGi. 
 - React and GSAP was used to make a 3D animation of that model. 
 - Optimized 3D animations in React for mobile devices. 
