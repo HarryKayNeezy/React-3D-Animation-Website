@@ -5,7 +5,7 @@ React 3D Animation Website  with ThreeJS (WebGi) &amp; GSAP ( A JavaScript tools
 Browse my website on - https://apple-3d-website.netlify.app/  
 
  <p align="center">
-  <img width="460" height="300" src="https://github.com/HarryKayNeezy/React-3D-Animation-Website/blob/main/gifs/react-3d-website-fast_AdobeExpress.gif">
+  <img src="https://github.com/HarryKayNeezy/React-3D-Animation-Website/blob/main/gifs/React-3D-Website-Final.gif">
 </p>  
   
  
