@@ -1,4 +1,6 @@
-# React-3D-Animation-Website
+# React-3D-Animation-Website  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4f3c5a-1e28-40c9-90b4-99efcaaf0d51/deploy-status)](https://app.netlify.com/sites/apple-3d-website/deploys)  
+
 React 3D Animation Website Tutorial with ThreeJS (WebGi) &amp; GSAP ( A JavaScript toolset).   
 Browse my website on - https://apple-3d-website.netlify.app/
 
