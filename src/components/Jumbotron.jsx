@@ -18,9 +18,8 @@ function Jumbotron() {
       <h2 className="title">New</h2>
       <img className="logo" src={Iphone} alt="iPhone 14 Pro"/>
       <p className="text"> Big and bigger.</p>
-      {/* <p className="text"> Developed By Harry K.</p> */}
       <span className="description"> From £41.99/month for 24months or £999 before trade-in </span>
-      <span className="description"> Developed By Harry K. </span>
+      {/* <span className="description"> Developed By Harry K. </span> */}
       <ul className="links">
         <li>
             <button className="button">Buy</button>
